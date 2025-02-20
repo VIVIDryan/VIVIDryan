@@ -1,4 +1,12 @@
 ## Hi there 👋
+About me
+My name is Xuqiang Chen (Travis);
+- I am pursuing a master’s degree advised by Prof. Fangyu Li at BJUT and will graduate in 2025;
+- I am interested in various theories and techquies in the fields of DL, FL, Domain Generalization, and Distributed Learning;
+- I want to meet more friends with interesting soul.
+- Ask me anything about Github.
+
+
 
 <!--
 **VIVIDryan/VIVIDryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
